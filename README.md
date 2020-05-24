@@ -1,5 +1,11 @@
 # File Converter
 
+# Installation
+
+```
+npm i simple-file-converter
+```
+
 ## Usage
 
 ```javascript
